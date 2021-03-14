@@ -1,3 +1,5 @@
+#Lending_Club-Loan_Default_Classification_and_Customer_Segment_Clustering
+
 Peer to peer lending, also referred to as P2P lending is the practice of lending to individuals and businesses through an online platform that matches lenders with borrowers. P2P lending enables individuals
 to obtain loans while avoiding financial institutions as the intermediaries. One of the leading P2P lending
 platforms is Lending Club, which has now lent over $ 45 billion to more than 3 million customers. The way
