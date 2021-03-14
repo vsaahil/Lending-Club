@@ -1,5 +1,4 @@
-Peer to peer lending, also referred to as P2P lending is the practice of lending to individuals and busi-
-nesses through an online platform that matches lenders with borrowers. P2P lending enables individuals
+Peer to peer lending, also referred to as P2P lending is the practice of lending to individuals and businesses through an online platform that matches lenders with borrowers. P2P lending enables individuals
 to obtain loans while avoiding financial institutions as the intermediaries. One of the leading P2P lending
 platforms is Lending Club, which has now lent over $ 45 billion to more than 3 million customers. The way
 the platform operates is that borrowers can create loan listings on the website by filling in an application
@@ -24,8 +23,7 @@ whether a loan would be fully paid back or charged (loan is deemed unlikely to b
 to the original terms). This model can be leveraged by Lending Club to make data-driven decisions on
 whether a borrower should be lent money by investors or not. To achieve this goal, different classification
 models were built by using different supervised machine learning algorithms, such as Logistic Regression,
-Random Forest, and Gradient Boosting Machine (GBM) and the model with the highest accuracy is rec-
-ommended for making decisions. Additionally, an unsupervised machine algorithm, K-means clustering is
+Random Forest, and Gradient Boosting Machine (GBM) and the model with the highest accuracy is recommended for making decisions. Additionally, an unsupervised machine algorithm, K-means clustering is
 also performed to determine different segments of borrowers to gather insights and help the organization
 understand its user base (borrowers) better to expand the business. The report outlines the rationale
 and methodology that was adopted to build a classification model and generate different clusters, and
